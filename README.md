@@ -1,9 +1,9 @@
 <div align="center">
     
 <h2 align="center"><u>Fork Infosystems</u></h2>
-    
+    <img src="https://raw.githubusercontent.com/Aditya664/Fork_Website.io/master/images/logo.png"/>
 </div>
-![Knowledge is Interelated](https://raw.githubusercontent.com/Aditya664/Fork_Website.io/master/images/logo.png)
+
 <h4 align="center"> Knowledge is Interelated </h4>
 
 <p align="center">
