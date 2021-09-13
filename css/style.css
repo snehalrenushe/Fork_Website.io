@@ -31,7 +31,7 @@ p{
 .header{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(70, 193, 255, 0.712), rgba(70, 193, 255, 0.712)), url('../images/bg1.jpg');
+    background-image: linear-gradient(rgba(0, 162, 255, 0.808), rgb(42, 170, 235)), url('../images/bg1.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     clip-path: polygon(100% 0%, 100% 75%, 50% 100%, 0 75%, 0 0);
@@ -44,13 +44,13 @@ p{
     bottom: 0%;
     left: 0%;
     right: 0%;
-    opacity: 0.1;
+    opacity: 2;
     z-index: -1;
     background: linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
 }
 
 .navbar:before{
-    content: "";
+    /*content: "";*/
     position: absolute;
     top: 0%;
     bottom: 0%;
@@ -58,11 +58,11 @@ p{
     right: 0%;
     opacity: 0.2;
     z-index: -1;
-    background: linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
+    background: white;
 }
 
 .nav-item a{
-    color: #fff!important;
+    color: #2f73cc!important;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -466,6 +466,10 @@ form:hover .form-button button{
     .font-weight-bold{
         font-size: 30px;
         padding-top: 30%;
+    }
+
+    .center-div h1{
+        padding-top: 10%;
     }
     
   }
