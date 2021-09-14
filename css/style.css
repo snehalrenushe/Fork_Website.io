@@ -343,12 +343,12 @@ i{
 }
 
 .form-button button{
-    border: 1px solid #50d1c0;
+    border: 1px solid #fff;
     border-radius: 100px;
     margin: 0 5px;
     padding: 12px 35px;
     outline: none;
-    color: #50d1c0;
+    color: #fff;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.4;
